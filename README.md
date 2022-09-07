@@ -2,7 +2,7 @@
 - 👀 I’m interested in watching movie
 - 🌱 I’m currently learning atmospheric science
 - 💞️ I’m looking to collaborate on WRF model in urban BEP scheme
-- 📫 WhatsApp +852-6742-2382
+- 📫 WhatsApp 
 
 <!---
 Ennis0213/Ennis0213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
